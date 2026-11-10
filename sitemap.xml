@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://qvesysinfotech.com/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/download.png</image:loc>
+      <image:title>Qvesys Infotech Logo</image:title>
+      <image:caption>Qvesys Infotech Full Stack Development with AI Training</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-2.avif</image:loc>
+      <image:title>Full Stack Development with AI Code Workspace</image:title>
+      <image:caption>Modern software development tools and code environment at Qvesys Infotech</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-1.avif</image:loc>
+      <image:title>Collaborative Tech Learning Environment</image:title>
+      <image:caption>Students collaborating on live projects at Qvesys Infotech</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-8.avif</image:loc>
+      <image:title>Student Project Portfolio Analytics Dashboard</image:title>
+      <image:caption>Full stack project built by Qvesys Infotech student</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-3.avif</image:loc>
+      <image:title>Student Project Full Stack eCommerce Website</image:title>
+      <image:caption>eCommerce application with shopping cart and payment integration</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-4.avif</image:loc>
+      <image:title>Student Project Hospital Management System</image:title>
+      <image:caption>Healthcare booking and patient management portal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-5.avif</image:loc>
+      <image:title>Student Project Business Agency Website</image:title>
+      <image:caption>Modern responsive agency and lead generation website</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-6.avif</image:loc>
+      <image:title>Student Project Educational School Portal</image:title>
+      <image:caption>School web portal for courses and student admissions</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-7.avif</image:loc>
+      <image:title>Student Project Restaurant Online Booking Website</image:title>
+      <image:caption>Restaurant web app with digital menu and table reservations</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://qvesysinfotech.com/images/photo-9.avif</image:loc>
+      <image:title>Student Project AI Conversational Chatbot</image:title>
+      <image:caption>AI chatbot integration using modern LLM APIs</image:caption>
+    </image:image>
+  </url>
+</urlset>
